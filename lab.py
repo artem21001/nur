@@ -5,7 +5,7 @@ import random
 def Model():
     #Заполняем значения по умолчанию
     RazBuf = 1000
-    N = 11
+    N = 15
     P = 0
     MassVer = []
     SredVrem = []
